@@ -7,7 +7,7 @@
 
 Projeto construído para fins de brincadeira e de quebra treinar ( Foco em JS )
 
-[🔗 Clique aqui para acessar](https://viniciuscruzz.github.io/nlw/nlw-esports)
+[🔗 Clique aqui para acessar](https://viniciuscruzz.github.io/js-kidding/)
 
 ## 🔧 Tecnologias
 
