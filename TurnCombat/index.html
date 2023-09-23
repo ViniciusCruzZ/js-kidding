@@ -9,7 +9,34 @@
 </head>
 <body>
     <h1>Turn Combat</h1>
-    <div class="container">
+
+    <div class="actions">
+        <button>Cadastrar Duelista</button>
+        <button>Iniciar Combate</button>
+        <button>Ranking</button>
+    </div>
+
+    <div class="register hidden">
+        <form id="duelist-1">
+            <label for="name">Duelista 1:</label>
+            <input type="text" name="name" id="name">
+
+            <label for="gener">Sexo:</label>
+            <input type="radio" name="gener" id="m">
+            <input type="radio" name="gener" id="f">
+
+            <label for="power">Poder:</label>
+            <select name="power" id="power">
+                <option value="" disabled selected>Selecione</option>
+                <option value="fire">Fogo</option>
+                <option value="water">Água</option>
+                <option value="earth">Terra</option>
+                <option value="air">Ar</option>
+            </select>
+        </form>
+    </div>
+
+    <div class="combat">
 
     </div>
 </body>
